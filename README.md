@@ -5,8 +5,9 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
-![image](https://github.com/magesh534/ORM/assets/135577936/3c08a26a-2a68-4476-ac92-ea12800709e9)
+![image](https://github.com/magesh534/ORM/assets/135577936/2fee9a8d-e027-4036-a2fd-d654b5c8ab3d)
+
+
 
 
 ## DESIGN STEPS
@@ -47,7 +48,8 @@ class book_DBAdmin(admin.ModelAdmin):
 ```
 ## OUTPUT
 
-![image](https://github.com/magesh534/ORM/assets/135577936/29bdd83b-756c-430e-83e4-76c0481357da)
+![image](https://github.com/magesh534/ORM/assets/135577936/bd8ced8a-81e4-4c1d-a702-08ee1323dcc0)
+
 
 
 ## RESULT
